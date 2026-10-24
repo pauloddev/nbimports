@@ -1,0 +1,9 @@
+{
+  "name": "nbimports-landing",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Landing page NB Imports MOC (site est\u00e1tico para Vercel)",
+  "scripts": {
+    "set-url": "node scripts/set-site-url.mjs"
+  }
+}
